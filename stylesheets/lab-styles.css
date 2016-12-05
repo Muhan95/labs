@@ -140,3 +140,15 @@ body {
         text-align: center;
         float: left;
 }
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+        color: inherit;
+}
+
+.hide {
+        display: none;
+}
+
+.show {
+        display: block;
+}
